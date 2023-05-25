@@ -8,6 +8,6 @@ public class Student extends AbstractPerson {
     @Override
     public void speak() {
         System.out.println(String.format("My name is %s, and I am a student.", getName()));
-        this.name = "Jinho";
+        this.name = "Jiho";
     }
 }

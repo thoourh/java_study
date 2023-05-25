@@ -49,3 +49,4 @@ public class PostDto {
     }
 }
 
+// @Getter -> 선언된 모든 필드의 get 메소드를 생성해 준다?
