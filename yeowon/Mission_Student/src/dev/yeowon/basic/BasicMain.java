@@ -9,7 +9,7 @@ public class BasicMain {
         Student studentLee = new Student("Lee", 28);
         Person studentPark = new Student("Park", 24);
 
-        Person lecturer = new Lecturer("Park Jeeho", 35);
+        Person lecturer = new Lecturer("Park Jaeho", 35);
 
         List<Person> everyone = new ArrayList<>();
         everyone.add(studentKim);
