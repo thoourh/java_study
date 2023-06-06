@@ -1,4 +1,4 @@
-package dev.thoourh.crud.post;
+package dev.thoourh.CRUD.post;
 
 public class PostDto {
     private String title;
